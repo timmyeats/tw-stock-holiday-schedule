@@ -1,0 +1,119 @@
+{
+    "data": [
+        {
+            "date": "2023/01/01",
+            "name": "Founding Day of the Taiwan",
+            "description": "According to regulations, one day off.<br>January 1st falls on Sunday, and one day off is made up on January 2nd (Monday)."
+        },
+        {
+            "date": "2023/01/02",
+            "name": "Founding Day of the Taiwan",
+            "description": "According to regulations, one day off.<br>January 1st falls on Sunday, and one day off is made up on January 2nd (Monday)."
+        },
+        {
+            "date": "2023/01/18",
+            "name": "No trading, only settlement and delivery operations",
+            "description": "*"
+        },
+        {
+            "date": "2023/01/19",
+            "name": "No trading, only settlement and delivery operations",
+            "description": "*"
+        },
+        {
+            "date": "2023/01/20",
+            "name": "The day before Lunar New Year's Eve",
+            "description": "January 20th (Friday) is adjusted to a day off, and work is made up on January 7th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/21",
+            "name": "Lunar New Year's Eve",
+            "description": "One day off according to regulations."
+        },
+        {
+            "date": "2023/01/22",
+            "name": "Lunar New Year",
+            "description": "According to regulations, a three-day holiday from January 22nd to January 24th.<br><br>January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/23",
+            "name": "Lunar New Year",
+            "description": "According to regulations, a three-day holiday from January 22nd to January 24th.<br><br>January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/24",
+            "name": "Lunar New Year",
+            "description": "According to regulations, a three-day holiday from January 22nd to January 24th.<br><br>January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/25",
+            "name": "Lunar New Year",
+            "description": "January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/26",
+            "name": "Lunar New Year",
+            "description": "January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/01/27",
+            "name": "Lunar New Year",
+            "description": "January 21st and 22nd fall on Saturday and Sunday, and two days off are made up on January 25th (Wednesday) and January 26th (Thursday).<br>January 27th (Friday) is adjusted to a day off, and work is made up on February 4th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/02/27",
+            "name": "228 Peace Memorial Day",
+            "description": "February 27th (Monday) is adjusted to a day off, and work is made up on February 18th (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        },
+        {
+            "date": "2023/02/28",
+            "name": "228 Peace Memorial Day",
+            "description": "February 27th (Monday) is adjusted to a day off, and work is made up on February 18th (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        },
+        {
+            "date": "2023/04/03",
+            "name": "Children's Day",
+            "description": "April 3rd (Monday) is adjusted to a day off, and work is made up on March 25th (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        },
+        {
+            "date": "2023/04/04",
+            "name": "Children's Day",
+            "description": "April 3rd (Monday) is adjusted to a day off, and work is made up on March 25th (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        },
+        {
+            "date": "2023/04/05",
+            "name": "Tomb Sweeping Day",
+            "description": "One day off according to regulations."
+        },
+        {
+            "date": "2023/05/01",
+            "name": "Labor Day",
+            "description": "One day off according to regulations."
+        },
+        {
+            "date": "2023/06/22",
+            "name": "Dragon Boat Festival",
+            "description": "One day off according to regulations.<br>June 23rd (Friday) is adjusted to a day off, and work is made up on June 17th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/06/23",
+            "name": "Dragon Boat Festival",
+            "description": "One day off according to regulations.<br>June 23rd (Friday) is adjusted to a day off, and work is made up on June 17th (Saturday), but there is no trading or delivery."
+        },
+        {
+            "date": "2023/09/29",
+            "name": "Mid-Autumn Festival",
+            "description": "One day off according to regulations."
+        },
+        {
+            "date": "2023/10/09",
+            "name": "National Day",
+            "description": "October 9th (Monday) is adjusted to a day off, and work is made up on September 23rd (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        },
+        {
+            "date": "2023/10/10",
+            "name": "National Day",
+            "description": "October 9th (Monday) is adjusted to a day off, and work is made up on September 23rd (Saturday), but there is no trading or delivery.<br>One day off according to regulations."
+        }
+    ]
+}
