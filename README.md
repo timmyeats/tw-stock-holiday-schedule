@@ -1,6 +1,6 @@
-# Taiwan Stock Exchange Holiday Schedule 2023
+# Taiwan Stock Exchange Holiday Schedule
 
-This JSON file contains the holiday schedule for the Taiwan Stock Exchange in the year 2023. It includes information on the dates of holidays, the names of the holidays, and any relevant descriptions or notes.
+This JSON file contains the holiday schedule for the Taiwan Stock Exchange. It includes information on the dates of holidays, the names of the holidays, and any relevant descriptions or notes.
 
 ## Usage
 
