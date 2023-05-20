@@ -31,6 +31,14 @@ Here's an example of a holiday object from the file:
 }
 ```
 
+## Curl
+
+Curl the json file from GitHub repo:
+
+```
+curl https://raw.githubusercontent.com/timmy86125/tw-stock-holiday-schedule/main/schedule-year.json
+```
+
 ## License
 
 This file is provided under the MIT License.
