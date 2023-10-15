@@ -33,10 +33,22 @@ Here's an example of a holiday object from the file:
 
 ## Curl
 
-Curl the json file from GitHub repo:
+### Curl the origin CSV file from TWSE:
+
+Get the latest year holiday schedule
+
+```curl https://www.twse.com.tw/rwd/en/holidaySchedule/holidaySchedule?response=csv```
+
+Get the specific year holiday schedule
+
+```curl https://www.twse.com.tw/rwd/en/holidaySchedule/holidaySchedule?response=csv&date=2023```
+
+
+### Curl the json file from GitHub repo:
+<span style='color: #007acc'>Please change the schedule-year.json file name, to get your data!!!</span>
 
 ```
-curl https://raw.githubusercontent.com/timmy86125/tw-stock-holiday-schedule/main/schedule-year.json
+curl https://raw.githubusercontent.com/timmy86125/tw-stock-holiday-schedule/main/schedule-2023.json
 ```
 
 ## License
